@@ -3,5 +3,6 @@
 	"app_id": "YOUR_APP_ID",
 	"app_key": "YOUR_APP_KEY",
 	"def_field": 1,
-	"audio_field": 2
+	"audio_field": 2,
+	"shortcut": "Ctrl+Shift+O"
 }
