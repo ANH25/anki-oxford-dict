@@ -105,8 +105,6 @@ def populate_fields(editor):
 
 def add_button(buttons, editor):
     shortcut = config['shortcut']
-    if not shortcut:
-        shortcut = "Ctrl+Shift+O"
     buttons.append(editor.addButton(
         os.path.join(addon_dir, 'icon.ico'),
         "oxford_dict",
